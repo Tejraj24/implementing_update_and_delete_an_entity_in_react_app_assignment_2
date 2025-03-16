@@ -1,14 +1,19 @@
 {
     "doors": [
-        {
-            "id": "1",
-            "name": "Front Door",
-            "status": "open"
-        },
-        {
-            "id": "2",
-            "name": "Back Door",
-            "status": "closed"
-        }
+      {
+        "id": "2",
+        "name": "Side Door",
+        "status": "closed"
+      },
+      {
+        "id": "3",
+        "name": "Main Entrance",
+        "status": "open"
+      },
+      {
+        "id": "5",
+        "name": "Garage Door",
+        "status": "closed"
+      }
     ]
-}
+  }
